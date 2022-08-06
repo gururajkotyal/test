@@ -1,1 +1,1 @@
-It is starting to run the programs in dev env.
+echo "It is starting to run the programs in dev env."
