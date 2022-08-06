@@ -1,1 +1,1 @@
-now we r in test env
+echo "now we are in testing env"
